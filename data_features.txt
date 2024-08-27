@@ -1,4 +1,3 @@
-Data columns from 0 to 20:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -26,9 +25,6 @@ Data columns (total 20 columns):
  19  ddaShimmer          755 non-null    float64
 dtypes: float64(17), int64(2), object(1)
 memory usage: 118.2+ KB
-
---------------------------------------------------------------------------------
-Data columns from 20 to 40:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -56,9 +52,6 @@ Data columns (total 20 columns):
  19  GNE_SNR_TKEO                755 non-null    float64
 dtypes: float64(19), object(1)
 memory usage: 118.2+ KB
-
---------------------------------------------------------------------------------
-Data columns from 40 to 60:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -86,9 +79,6 @@ Data columns (total 20 columns):
  19  mean_MFCC_2nd_coef  754 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 60 to 80:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -116,9 +106,6 @@ Data columns (total 20 columns):
  19  mean_8th_delta         754 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 80 to 100:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -146,9 +133,6 @@ Data columns (total 20 columns):
  19  std_MFCC_0th_coef            754 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 100 to 120:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -176,9 +160,6 @@ Data columns (total 20 columns):
  19  std_6th_delta         754 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 120 to 140:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -206,9 +187,6 @@ Data columns (total 20 columns):
  19  std_12th_delta_delta        754 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 140 to 160:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -236,9 +214,6 @@ Data columns (total 20 columns):
  19  det_entropy_shannon_9_coef  754 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 160 to 180:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -266,9 +241,6 @@ Data columns (total 20 columns):
  19  det_TKEO_mean_9_coef         754 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 180 to 200:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -296,9 +268,6 @@ Data columns (total 20 columns):
  19  app_entropy_shannon_9_coef  756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 200 to 220:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -326,9 +295,6 @@ Data columns (total 20 columns):
  19  app_det_TKEO_mean_9_coef     756 non-null    float64
 dtypes: float64(19), int64(1)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 220 to 240:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -356,9 +322,6 @@ Data columns (total 20 columns):
  19  Ed2_8_coef                 756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 240 to 260:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -386,9 +349,6 @@ Data columns (total 20 columns):
  19  det_LT_entropy_log_8_coef       756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 260 to 280:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -416,9 +376,6 @@ Data columns (total 20 columns):
  19  det_LT_TKEO_std_8_coef      756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 280 to 300:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -446,9 +403,6 @@ Data columns (total 20 columns):
  19  app_LT_entropy_log_8_coef       756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 300 to 320:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -476,9 +430,6 @@ Data columns (total 20 columns):
  19  app_LT_TKEO_std_8_coef      756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 320 to 340:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -506,9 +457,6 @@ Data columns (total 20 columns):
  19  tqwt_energy_dec_18       756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 340 to 360:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -536,9 +484,6 @@ Data columns (total 20 columns):
  19  tqwt_entropy_shannon_dec_2  756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 360 to 380:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -566,9 +511,6 @@ Data columns (total 20 columns):
  19  tqwt_entropy_shannon_dec_22  756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 380 to 400:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -596,9 +538,6 @@ Data columns (total 20 columns):
  19  tqwt_entropy_log_dec_6       756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 400 to 420:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -626,9 +565,6 @@ Data columns (total 20 columns):
  19  tqwt_entropy_log_dec_26  756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 420 to 440:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -656,9 +592,6 @@ Data columns (total 20 columns):
  19  tqwt_TKEO_mean_dec_10    756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 440 to 460:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -686,9 +619,6 @@ Data columns (total 20 columns):
  19  tqwt_TKEO_mean_dec_30  756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 460 to 480:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -716,9 +646,6 @@ Data columns (total 20 columns):
  19  tqwt_TKEO_std_dec_14   756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 480 to 500:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -746,9 +673,6 @@ Data columns (total 20 columns):
  19  tqwt_TKEO_std_dec_34  756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 500 to 520:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -776,9 +700,6 @@ Data columns (total 20 columns):
  19  tqwt_medianValue_dec_18  756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 520 to 540:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -806,9 +727,6 @@ Data columns (total 20 columns):
  19  tqwt_meanValue_dec_2     756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 540 to 560:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -836,9 +754,6 @@ Data columns (total 20 columns):
  19  tqwt_meanValue_dec_22  756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 560 to 580:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -866,9 +781,6 @@ Data columns (total 20 columns):
  19  tqwt_stdValue_dec_6    756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 580 to 600:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -896,9 +808,6 @@ Data columns (total 20 columns):
  19  tqwt_stdValue_dec_26  756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 600 to 620:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -926,9 +835,6 @@ Data columns (total 20 columns):
  19  tqwt_minValue_dec_10  756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 620 to 640:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -956,9 +862,6 @@ Data columns (total 20 columns):
  19  tqwt_minValue_dec_30  756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 640 to 660:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -986,9 +889,6 @@ Data columns (total 20 columns):
  19  tqwt_maxValue_dec_14  756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 660 to 680:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -1016,9 +916,6 @@ Data columns (total 20 columns):
  19  tqwt_maxValue_dec_34  756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 680 to 700:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -1046,9 +943,6 @@ Data columns (total 20 columns):
  19  tqwt_skewnessValue_dec_18  756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 700 to 720:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -1076,9 +970,6 @@ Data columns (total 20 columns):
  19  tqwt_kurtosisValue_dec_2   756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 720 to 740:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 20 columns):
@@ -1106,9 +997,6 @@ Data columns (total 20 columns):
  19  tqwt_kurtosisValue_dec_22  756 non-null    float64
 dtypes: float64(20)
 memory usage: 118.2 KB
-
---------------------------------------------------------------------------------
-Data columns from 740 to 755:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 756 entries, 0 to 755
 Data columns (total 15 columns):
@@ -1131,5 +1019,3 @@ Data columns (total 15 columns):
  14  class                      756 non-null    int64  
 dtypes: float64(14), int64(1)
 memory usage: 88.7 KB
-
---------------------------------------------------------------------------------
